@@ -1,9 +1,9 @@
 # hnews
 
-This repository represents APIs for a sample web site like hackernews. My main idea was about learning Ruby on Rails for back-end and React for front-end so I design an API to implement for both back-end and fornt-end.
+This repository define APIs for a sample web site like [hackernews](https://news.ycombinator.com/). My main idea was about learning Ruby on Rails for back-end and React for front-end so I design an API to implement for both back-end and fornt-end.
 
 ## Implementations
-[Rails Ripository](https://github.com/mshirdel/rails_hnews)
+* [Rails Ripository](https://github.com/mshirdel/rails_hnews)
 
 ## List of APIs
 
@@ -22,7 +22,7 @@ Get Current User | api/user | GET
 ```
 POST api/users
 ```
-#### body
+#### Body
 ```json
 {
   "user":
